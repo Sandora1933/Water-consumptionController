@@ -14,3 +14,5 @@ you write how much water you've just drunk, app saves data and demonstrates
 progress bar with current water volume consumed during a day in percent. When the day ends up,
 you should click "reset" button to clean the progress bar. Full bar tells you that you've
 consumed 2 litres of water - recommended norm for every person to consume each day.
+
+## Take care of your health :)
